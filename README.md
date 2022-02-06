@@ -30,9 +30,9 @@ To run this project locally, follow these steps.
 1. Clone the project locally, change into the directory, and install the dependencies:
 
 ```sh
-git clone https://github.com/dabit3/polygon-ethereum-nextjs-marketplace.git
+git clone https://github.com/leaflink-dev/nft-marketplace-prototype.git
 
-cd polygon-ethereum-nextjs-marketplace
+cd nft-marketplace-prototype
 
 # install using NPM or Yarn
 npm install
