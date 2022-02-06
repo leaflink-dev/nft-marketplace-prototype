@@ -16,7 +16,7 @@ To deploy this project to Gitpod, follow these steps:
 This endpoint will look something like this:
 
 ```
-https://leaflinkdev-nftmarketpla-3r4nbkm1k6s.ws-us30.gitpod.io/
+https://3000-leaflinkdev-nftmarketpla-o9uwpq385ef.ws-us30.gitpod.io/
 ```
 
 The chain ID should be 1337. If you have a localhost rpc set up, you may need to overwrite it.
