@@ -1,8 +1,6 @@
 # NFT 마켓플레이스 만들어 보기
 ## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
 
-This is the codebase to go along with tbe blog post [Building a Full Stack NFT Marketplace on Ethereum with Polygon](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
-
 ### Running this project
 
 #### Gitpod
